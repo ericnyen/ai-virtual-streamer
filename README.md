@@ -2,14 +2,14 @@
 
 Simple script used to read chat messages from Youtube live chat and OpenAI's GPT-3 language model to generate responses. The output from GPT-3 is then read out loud using a Text-to-Speech engine (Eleven Labs).
 
-#Setup
+# Setup
 Install Dependencies
 ```
 pip install -r requirements.txt
 ```
 You will also need to install [`ffmpeg`](https://ffmpeg.org/)
 
-#Usage
+# Usage
 
 Edit the variables 'El_key' and 'OAI_key' in 'config.json'
 
