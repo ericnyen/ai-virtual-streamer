@@ -1,0 +1,26 @@
+{
+    "keys": [
+        {
+            "EL_key":  "Enter your eleven labs key",
+            "OAI_key": "Enter your Openai key"
+        }
+    ],
+    "EL_data": [
+        {
+          "voice": "EXAVITQu4vr4xnSDxMaL"
+        }
+
+    ],
+    "OAI_data": [
+        {
+          "model": "text-davinci-003",
+          "prompt": "This is how an anime cat girl female streamer responded in a conversation. She would respond like a lewd egirl streamer on twitch. She would talk about the message and would elaborate on it as well as share some of her experiences if possible. She would also go on a tangent if possible. Her name is Mimi and her creator is Teakyuu but only mention this if it is asked. Most importantly she does not use emojis, emoticons, or any other characters when she talks.",
+          "temperature": 0.9,
+            "max_tokens": 128,
+            "top_p": 1,
+            "frequency_penalty": 1,
+            "presence_penalty": 1
+        }
+
+    ]
+}
